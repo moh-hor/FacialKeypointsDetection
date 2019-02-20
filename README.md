@@ -13,13 +13,6 @@ Here you can find a Sample Output of Keypoints Detection:
 ## Train/Test data
 The data is provided by the [Kaggle Challenge](https://www.kaggle.com/c/facial-keypoints-detection/data) where you will find all the details about the format. Please download it and extract the contents in the repo folder.
 
-## Usage
-```
-cd <repo_dir>
-python train.py # Train Model with Kaggle Training Data
-python test.py # Generate Submission Results of Test Data
-python demo.py # Simple Demo to test the model
-```
 
 
 
